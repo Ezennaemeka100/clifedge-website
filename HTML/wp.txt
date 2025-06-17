@@ -1,0 +1,72 @@
+WORDPRESS 
+Javascript, JQuery, HTML, HTML 5, XML, CSS 3, React, Vue.js, Redux
+Laravel Framework, AWS LightSail, Vue.js, and 
+PHP backend development, Firebug, Chrome inspector,
+RESTful APIs and formats (JSON, XML), Git, SVN, and Mercurial
+
+
+In-depth knowledge of WordPress architecture, themes, plugins, and APIs
+Experience working with popular WordPress frameworks and page builders
+Design and develop WordPress websites using themes such as Element, 
+Gutenberg, and WP Bakery. or using a Child theme
+speed and SEO, Create and modify the child theme as per requirement
+Experience with BigCommerce, Magento, and Shopify (preferred)
+Expertise in WP Plugin Integration (WooCommerce, WPML, Membership plugins etc)
+Develop, test, and launch new WordPress websites using custom classic themes based on Berman’s template 
+which makes use of the WordPress block editor and ACF
+Integrate third-party services (CRMs, ESPs, tracking, etc.) into existing or new websites
+Implementing efficient and accessible markup, ideally using BEM syntax
+Exposure to GSAP or similar animation framework for more extensive website animation
+Experience developing custom WordPress plugins leveraging object-oriented PHP
+Working knowledge of relational databases and SQL
+Experience configuring and maintaining a LAMP development environment
+Implementation of a CI/CD workflow using a build tool like ParcelJS or Vite
+converting PSD design files into WordPress templates
+Work alongside UX/UI designers
+Software and coding proficiencies
+Front-end programming software such as HTML, CSS, Bootstrap, JavaScript (vanilla JS, jQuery, ES6), Angular, and React
+Back-end software such as PHP, Java, Python, Node.js, Ruby, Sass
+MySQL database usage and optimization
+Wp-CLI commands
+REST API and GraphQL
+WordPress core architecture
+Gutenberg blocks
+Popular page builders such as Elementor, Beaver Builder, or Divi
+WooCommerce and other e-commerce extensions
+WordPress multisite
+Headless CMS and full site editing
+Semantic HTML5 coding
+Accessibility (WCAG 2.0+, WCAG 3, UAAG, ARIA, etc.)
+SEO best practices
+Design software such as Adobe Cloud, Photoshop, Illustrator, XD, AEM, and Figma
+Version control software such as Gulp, Grant, Blaze meter, SVN, or GitHub
+Soft skills
+Self-motivated
+Good analytic skills
+Strong attention to detail
+Strong problem-solving skills
+Experience developing custom features for existing 
+popular plugins eg. Gravity Forms and WooCommerce
+Experience with SASS, SCSS or other Style pre-processors
+Experience with advanced SQL queries and SQL database management and troubleshooting.
+Experience with Shopify and Liquid
+Experience with Gulp.js
+Experience with loading PHP Packages via Composer 
+within custom WordPress Development.
+A good understanding of Google Analytics, goal tracking and SEO.
+
+
+BACKEND
+Node js, Express, andGoLang, CMS framework (Strapi)
+Agile / Scrum environment
+Tech/ Coding Skills. PHP, JavaScript/jQuery, 
+HTML/CSS/LESS/ SASS, SQL, Git, XML/JSON and 
+3rd party APIs, Responsive, Web standards, 
+performance and accessibility
+HubSpot CMS
+
+CTO
+
+https://docs.google.com/document/d/1gyh-M437sUtQ-4V6hbLbbDb1pudXsdw_IYl77X8gEYo/edit
+https://docs.google.com/document/d/1ML5-xBM-K_esbIv9EllS6Mk6eHvZC2thoMLoq1FWnTo/edit
+https://docs.google.com/document/d/127FiMpOdTshCCzVFmZ9cGlofFsfP9J0xZdl2EoegW1M/edit
