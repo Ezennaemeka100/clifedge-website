@@ -7053,6 +7053,36 @@ h5.h5-title {
 /*  CONTENT BOX SHAPES
 /*------------------------------------------*/
 
+.why-work-btn {
+  background-color: #2160fd;
+  border: 2px solid #2160fd;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+.why-work-btn:hover {
+}
+
+.why {
+  position: relative;
+}
+
+.why:hover .why-work-btn {
+  background-color: transparent;
+  color: #0195ff;
+  transition: 0.5s ease-in-out;
+  transform: scale(1);
+}
+.divide {
+  position: absolute;
+  left: 25px;
+  top: 70px;
+  border: none;
+  border-left: 3px solid #ddd;
+  border-left-width: 3px;
+  height: 100px;
+}
+
 .cbox-5-shape-1 {
   position: absolute;
   right: 30px;
